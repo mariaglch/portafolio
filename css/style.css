@@ -1379,7 +1379,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .arlo_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(../img/hero/3.jpg);}
-.arlo_tm_universal_box_wrap .overlay_color.testimonial{background-color: rgba(7,23,55,.8);}
+.arlo_tm_universal_box_wrap .overlay_color.testimonial{background-color: rgba(233, 237, 201,.8);}
 .arlo_tm_universal_box_wrap .content.testimonial{padding: 82px 0px 90px 0px;}
 
 /*---------------------------------------------------*/
@@ -2087,7 +2087,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .arlo_tm_intro_universal_bg_wrap .bg_wrap .overlay_image.top{background-image: url(../img/hero/2.jpg);}
-.arlo_tm_intro_universal_bg_wrap .bg_wrap .overlay_color.top{background-color: #E9EDC9;}
+.arlo_tm_intro_universal_bg_wrap .bg_wrap .overlay_color.top{background-color: rgba(233, 237, 201,.85);}
 .arlo_tm_intro_universal_bg_wrap .content.top{height: 75vh;}
 .arlo_tm_intro_universal_bg_wrap .content.top .main_titles_wrap{
 	position: absolute;
