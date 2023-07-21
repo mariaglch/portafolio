@@ -192,7 +192,7 @@ img.svg{
 .arlo_tm_leftpart_wrap .menu_list_wrap ul li:last-child{margin-bottom: 0px;}
 .arlo_tm_leftpart_wrap .menu_list_wrap ul li a{
 	text-decoration: none;
-	color: #fff;
+	color: #202020;
 	font-family: "Montserrat";
 	font-size: 16px;
 	font-weight: 500;
@@ -212,7 +212,7 @@ img.svg{
 	content: "";
 	height: 2px;
 	width: 0px;
-	background-color: #BDA893;
+	background-color: #A85238;
 	top: 14px;
 	transform: translateY(-50%);
 	left: 100%;
