@@ -262,7 +262,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #E3872D;}
+.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #A75136;}
 .arlo_tm_leftpart_wrap .arlo_tm_resize{
 	position: absolute;
 	right: 0px;
@@ -271,7 +271,7 @@ img.svg{
 	height: 30px;
 	text-align: center;
 	line-height: 30px;
-	background-color: #E3872D;
+	background-color: #A75136;
 	display: inline-block;
 	text-decoration: none;
 	z-index: 200;
@@ -438,7 +438,7 @@ img.svg{
 }
 .arlo_tm_hero_header_wrap .name_holder h3 span{
 	font-weight: 500;
-	color: #E3872D;
+	color: #A75136;
 }
 .arlo_tm_hero_header_wrap .text_typing{
 	width: 100%;
@@ -459,7 +459,7 @@ img.svg{
 	line-height: 1;
 	font-family: "Montserrat";
 }
-.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #E3872D;}
+.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #A75136;}
 .arlo_tm_arrow_wrap{
 	position: absolute;
 	left: 50%;
@@ -522,7 +522,7 @@ img.svg{
 	content: "";
 	width: 6px;
 	height: 72px;
-	background-color: #E3872D;
+	background-color: #A75136;
 	top: 2px;
 }
 .arlo_tm_title_holder h3{
@@ -713,7 +713,7 @@ img.svg{
 }
 .arlo_tm_about_wrap .definition{margin-bottom: 15px;}
 .arlo_tm_about_wrap .definition p{color: #333;}
-.arlo_tm_about_wrap .definition p strong{color: #E3872D;}
+.arlo_tm_about_wrap .definition p strong{color: #A75136;}
 
 .arlo_tm_about_wrap .about_short_contact_wrap{
 	width: 100%;
@@ -783,7 +783,7 @@ img.svg{
 .arlo_tm_about_wrap .buttons_wrap ul li a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #A75136;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1026,7 +1026,7 @@ img.svg{
 .arlo_tm_services_wrap .list_wrap ul li .icon .svg{
 	width: 40px;
 	height: 40px;
-	color: #E3872D;
+	color: #A75136;
 }
 .arlo_tm_services_wrap .list_wrap ul li .title_service{margin-bottom: 17px;}
 .arlo_tm_services_wrap .list_wrap ul li .title_service h3{
@@ -1482,7 +1482,7 @@ img.svg{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.arlo_tm_news_wrap .date_wrap p a:hover{color: #E3872D;}
+.arlo_tm_news_wrap .date_wrap p a:hover{color: #A75136;}
 .arlo_tm_news_wrap .date_wrap p a:after{
 	position: absolute;
 	content: "";
@@ -1512,13 +1512,13 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_news_wrap .title_holder h3 a:hover{color: #E3872D;}
+.arlo_tm_news_wrap .title_holder h3 a:hover{color: #A75136;}
 .arlo_tm_news_wrap .definition{margin-bottom: 26px;}
 .arlo_tm_news_wrap .definition p{color: #333;}
 .arlo_tm_news_wrap .read_more a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #A75136;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1857,7 +1857,7 @@ img.svg{
 .arlo_tm_contact_wrap .arlo_tm_button a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #A75136;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -2371,7 +2371,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_portfolio_single_wrap .pagination_wrap a:hover{color: #E3872D;}
+.arlo_tm_portfolio_single_wrap .pagination_wrap a:hover{color: #A75136;}
 
 /*---------------------------------------------------*/
 /*	14) ARLO MOBILE HEADER
